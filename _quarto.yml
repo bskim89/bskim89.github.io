@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bheom Seok Kim"
+  site-url: "https://bskim89.github.io"
+  description: "Agricultural trade, food demand, and welfare analysis"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - research.qmd
+      - teaching.qmd
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    center: "© 2026 Bheom Seok Kim · [bskim89@vt.edu](mailto:bskim89@vt.edu)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    mainfont: "Source Sans 3"
+    toc: false

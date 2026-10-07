@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Updated July 2026"
+---
+
+[⬇ Download CV (PDF)](cv.pdf){.btn .btn-primary}
+
+<!-- cv.pdf 파일을 이 폴더에 넣으면 아래에 바로 보입니다 -->
+<iframe src="cv.pdf" width="100%" height="900px" style="border:1px solid #ddd; margin-top:1rem;"></iframe>

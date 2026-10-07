@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+---
+
+## Teaching Philosophy
+
+**Clarity and Structure in Teaching.**
+I believe that effective teaching begins with clarity. My goal as an instructor is to make complex economic ideas understandable and meaningful for students. I achieve this by introducing concepts in simple and structured ways, using intuitive examples and step-by-step illustrations. Rather than overwhelming students with technical detail, I build understanding gradually, helping them see how theory connects to logic and evidence. This approach encourages students to grasp both the mechanics and the intuition of economic reasoning.
+
+**Interaction and Real-World Application.**
+Teaching is most powerful when it encourages active learning and real-world thinking. I design classes as interactive spaces where students discuss, solve problems together, and apply theories to contemporary issues in trade and food economics. By linking analytical models to policy debates and global challenges, I aim to cultivate both curiosity and analytical rigor. My ultimate goal is for students to leave the classroom with stronger technical skills and a deeper understanding of how economics explains the real world.
+
+## Teaching Experience
+
+### Virginia Tech — Teaching Assistant
+
+::: {.course}
+[AAEC 3024: Monetary and Global Issues in Applied Economics]{}
+[Spring 2025]{.term}
+:::
+
+### Seoul National University — Teaching Assistant
+
+::: {.course}
+[Aid and International Agricultural Development]{}
+[Fall 2018]{.term}
+:::
+
+::: {.course}
+[Forest and Environmental Policy in the Democratic People's Republic of Korea]{}
+[Spring 2018]{.term}
+:::
+
+::: {.course}
+[Methods and Applications in Economic Research]{}
+[Fall 2017]{.term}
+:::

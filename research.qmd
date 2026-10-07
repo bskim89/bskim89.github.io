@@ -1,0 +1,26 @@
+---
+title: "Research"
+---
+
+## Work in Progress
+
+<!-- 논문 하나를 추가하려면 아래 ::: {.paper} 블록 하나를 복사해서 붙이면 됩니다.
+     PDF 링크가 생기면 [Paper](파일명.pdf) 형태로 paper-meta 줄에 넣으세요. -->
+
+::: {.paper}
+[The Impact of the Seafood Import Monitoring Program (SIMP) on U.S. Seafood Imports]{.paper-title}
+
+[with Xi He]{.paper-meta}
+
+<details><summary>Abstract</summary>
+This study examines how SIMP affected U.S. seafood import value, quantity, and prices using a staggered Difference-in-Differences gravity model.
+</details>
+:::
+
+::: {.paper}
+[Food-at-Home and Food-Away-from-Home Demand in the U.S.: An EASI Model Analysis]{.paper-title}
+
+<details><summary>Abstract</summary>
+This project estimates price and expenditure elasticities for household food demand using the EASI framework and Consumer Expenditure Survey data.
+</details>
+:::

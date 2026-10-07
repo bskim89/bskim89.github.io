@@ -1,0 +1,54 @@
+---
+title: "Bheom Seok Kim"
+subtitle: "Ph.D. Candidate, Agricultural and Applied Economics · Virginia Tech"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:bskim89@vt.edu
+    - icon: file-earmark-text
+      text: CV
+      href: cv.pdf
+    # 아래 링크는 실제 주소로 바꾼 뒤 주석(#)을 지우세요
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/YOUR-ID
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=p0X0ahQAAAAJ
+---
+
+<span class="tag">Agricultural Trade</span><span class="tag">Structural Demand Models</span><span class="tag">Welfare Analysis</span>
+
+📍 Blacksburg, VA &nbsp;·&nbsp; 🏫 Virginia Tech &nbsp;·&nbsp; 📧 [bskim89@vt.edu](mailto:bskim89@vt.edu)
+
+Hi, thanks for visiting my website!
+
+I am a third-year Ph.D. student in Agricultural and Applied Economics at Virginia Tech. My research investigates how trade regulations and consumer behavior shape the structure and performance of global food systems. I focus on the economic effects of regulatory interventions such as the U.S. Seafood Import Monitoring Program (SIMP), which aims to combat illegal, unreported, and unregulated fishing. My work analyzes how such non-tariff measures alter trade flows, prices, and market concentration across exporting countries and products.
+
+Beyond trade policy, I study the economics of food consumption within households. Using detailed microdata from the U.S. Bureau of Labor Statistics' Consumer Expenditure Survey, I estimate demand systems to quantify price and expenditure elasticities for Food at Home (FAH) and Food Away from Home (FAFH). These models allow me to measure welfare changes associated with price shocks and food policy reforms.
+
+My research integrates causal inference, structural econometrics, and data-driven policy analysis. I combine customs-level trade data, household survey microdata, and market-level price information to study how policies affect both producers and consumers along the food supply chain. The overarching goal of my research is to provide rigorous empirical evidence on how trade and food policies can be designed to enhance efficiency, fairness, and resilience in global markets.
+
+## Research Interests
+
+**Trade Policy and Market Structure**
+I examine how international trade policies influence global food systems, focusing on regulatory measures such as SIMP and their effects on trade dynamics, market concentration, and price transmission. My research highlights how compliance costs and information requirements reshape competitive relationships between exporters and importers.
+
+**Structural Demand Estimation and Welfare Analysis**
+I use structural demand models such as QUAIDS and EASI to estimate household food demand elasticities. My current work analyzes substitution patterns between Food at Home and Food Away from Home and measures how these patterns vary across income levels and demographic groups. These analyses contribute to understanding how policy or price changes affect consumer welfare and nutritional inequality.
+
+**Empirical Methods for Policy Evaluation**
+I apply econometric methods such as gravity modeling, staggered difference-in-differences estimation, and event-study analysis to identify causal effects of trade and food policies. I am also interested in developing transparent frameworks that link trade data with market outcomes to improve policy evaluation in agri-food sectors.
+
+## Professional Engagements
+
+Beyond academic research, I have worked on multiple policy and analytical projects related to trade and food security. Currently, I am conducting dissertation research on the economic impacts of the Seafood Import Monitoring Program (SIMP) at Virginia Tech. The project integrates international trade data, gravity covariates, and IUU risk indices to estimate heterogeneous treatment effects across countries and cohorts.
+
+Before starting my doctoral studies, I worked as a researcher at the **Korea Rural Economic Institute (KREI)**. There, I contributed to national reports assessing the economic impacts of major trade agreements including CPTPP, RCEP, and IPEF on Korean agriculture. I also participated in OECD Committee for Agriculture policy discussions and evaluated strategies to strengthen Korea's grain self-sufficiency and stockpiling systems following the global food price surge caused by the Russia–Ukraine conflict.
+
+Earlier in my career, I was a junior researcher at the **Institute of Green Bio Science and Technology, Seoul National University**. My work focused on agricultural development projects in the Mekong region and evaluated how access to agricultural information influences smallholder productivity and income. These experiences provided valuable insight into how data and empirical evidence can guide both national trade strategies and local development initiatives.
