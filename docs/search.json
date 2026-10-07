@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bheom Seok Kim",
+    "section": "",
+    "text": "Agricultural TradeStructural Demand ModelsWelfare Analysis\n📍 Blacksburg, VA  ·  🏫 Virginia Tech  ·  📧 bskim89@vt.edu\nHi, thanks for visiting my website!\nI am a third-year Ph.D. student in Agricultural and Applied Economics at Virginia Tech. My research investigates how trade regulations and consumer behavior shape the structure and performance of global food systems. I focus on the economic effects of regulatory interventions such as the U.S. Seafood Import Monitoring Program (SIMP), which aims to combat illegal, unreported, and unregulated fishing. My work analyzes how such non-tariff measures alter trade flows, prices, and market concentration across exporting countries and products.\nBeyond trade policy, I study the economics of food consumption within households. Using detailed microdata from the U.S. Bureau of Labor Statistics’ Consumer Expenditure Survey, I estimate demand systems to quantify price and expenditure elasticities for Food at Home (FAH) and Food Away from Home (FAFH). These models allow me to measure welfare changes associated with price shocks and food policy reforms.\nMy research integrates causal inference, structural econometrics, and data-driven policy analysis. I combine customs-level trade data, household survey microdata, and market-level price information to study how policies affect both producers and consumers along the food supply chain. The overarching goal of my research is to provide rigorous empirical evidence on how trade and food policies can be designed to enhance efficiency, fairness, and resilience in global markets."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Bheom Seok Kim",
+    "section": "Research Interests",
+    "text": "Research Interests\nTrade Policy and Market Structure I examine how international trade policies influence global food systems, focusing on regulatory measures such as SIMP and their effects on trade dynamics, market concentration, and price transmission. My research highlights how compliance costs and information requirements reshape competitive relationships between exporters and importers.\nStructural Demand Estimation and Welfare Analysis I use structural demand models such as QUAIDS and EASI to estimate household food demand elasticities. My current work analyzes substitution patterns between Food at Home and Food Away from Home and measures how these patterns vary across income levels and demographic groups. These analyses contribute to understanding how policy or price changes affect consumer welfare and nutritional inequality.\nEmpirical Methods for Policy Evaluation I apply econometric methods such as gravity modeling, staggered difference-in-differences estimation, and event-study analysis to identify causal effects of trade and food policies. I am also interested in developing transparent frameworks that link trade data with market outcomes to improve policy evaluation in agri-food sectors."
+  },
+  {
+    "objectID": "index.html#professional-engagements",
+    "href": "index.html#professional-engagements",
+    "title": "Bheom Seok Kim",
+    "section": "Professional Engagements",
+    "text": "Professional Engagements\nBeyond academic research, I have worked on multiple policy and analytical projects related to trade and food security. Currently, I am conducting dissertation research on the economic impacts of the Seafood Import Monitoring Program (SIMP) at Virginia Tech. The project integrates international trade data, gravity covariates, and IUU risk indices to estimate heterogeneous treatment effects across countries and cohorts.\nBefore starting my doctoral studies, I worked as a researcher at the Korea Rural Economic Institute (KREI). There, I contributed to national reports assessing the economic impacts of major trade agreements including CPTPP, RCEP, and IPEF on Korean agriculture. I also participated in OECD Committee for Agriculture policy discussions and evaluated strategies to strengthen Korea’s grain self-sufficiency and stockpiling systems following the global food price surge caused by the Russia–Ukraine conflict.\nEarlier in my career, I was a junior researcher at the Institute of Green Bio Science and Technology, Seoul National University. My work focused on agricultural development projects in the Mekong region and evaluated how access to agricultural information influences smallholder productivity and income. These experiences provided valuable insight into how data and empirical evidence can guide both national trade strategies and local development initiatives."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The Impact of the Seafood Import Monitoring Program (SIMP) on U.S. Seafood Imports\nwith Xi He\n\n\nAbstract\n\nThis study examines how SIMP affected U.S. seafood import value, quantity, and prices using a staggered Difference-in-Differences gravity model.\n\n\n\nFood-at-Home and Food-Away-from-Home Demand in the U.S.: An EASI Model Analysis\n\n\nAbstract\n\nThis project estimates price and expenditure elasticities for household food demand using the EASI framework and Consumer Expenditure Survey data."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "",
+    "text": "The Impact of the Seafood Import Monitoring Program (SIMP) on U.S. Seafood Imports\nwith Xi He\n\n\nAbstract\n\nThis study examines how SIMP affected U.S. seafood import value, quantity, and prices using a staggered Difference-in-Differences gravity model.\n\n\n\nFood-at-Home and Food-Away-from-Home Demand in the U.S.: An EASI Model Analysis\n\n\nAbstract\n\nThis project estimates price and expenditure elasticities for household food demand using the EASI framework and Consumer Expenditure Survey data."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "⬇ Download CV (PDF)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Clarity and Structure in Teaching. I believe that effective teaching begins with clarity. My goal as an instructor is to make complex economic ideas understandable and meaningful for students. I achieve this by introducing concepts in simple and structured ways, using intuitive examples and step-by-step illustrations. Rather than overwhelming students with technical detail, I build understanding gradually, helping them see how theory connects to logic and evidence. This approach encourages students to grasp both the mechanics and the intuition of economic reasoning.\nInteraction and Real-World Application. Teaching is most powerful when it encourages active learning and real-world thinking. I design classes as interactive spaces where students discuss, solve problems together, and apply theories to contemporary issues in trade and food economics. By linking analytical models to policy debates and global challenges, I aim to cultivate both curiosity and analytical rigor. My ultimate goal is for students to leave the classroom with stronger technical skills and a deeper understanding of how economics explains the real world."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "Clarity and Structure in Teaching. I believe that effective teaching begins with clarity. My goal as an instructor is to make complex economic ideas understandable and meaningful for students. I achieve this by introducing concepts in simple and structured ways, using intuitive examples and step-by-step illustrations. Rather than overwhelming students with technical detail, I build understanding gradually, helping them see how theory connects to logic and evidence. This approach encourages students to grasp both the mechanics and the intuition of economic reasoning.\nInteraction and Real-World Application. Teaching is most powerful when it encourages active learning and real-world thinking. I design classes as interactive spaces where students discuss, solve problems together, and apply theories to contemporary issues in trade and food economics. By linking analytical models to policy debates and global challenges, I aim to cultivate both curiosity and analytical rigor. My ultimate goal is for students to leave the classroom with stronger technical skills and a deeper understanding of how economics explains the real world."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nVirginia Tech — Teaching Assistant\n\nAAEC 3024: Monetary and Global Issues in Applied Economics Spring 2025\n\n\n\nSeoul National University — Teaching Assistant\n\nAid and International Agricultural Development Fall 2018\n\n\nForest and Environmental Policy in the Democratic People’s Republic of Korea Spring 2018\n\n\nMethods and Applications in Economic Research Fall 2017"
+  }
+]
